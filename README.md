@@ -33,7 +33,7 @@ The test results below are obtained on a Intel Xeon CPU, model E5-2620 v3 @ 2.40
            Pentary  |   68.32       ---       ---  |   68.32       ---       ---
            Ternary  |     ---       ---       ---  |   53.19       ---       ---
          Eytzinger  |   39.61     63.65     87.09  |   36.68     43.42     53.00
-            BitSet  |   47.73     68.00    106.38  |   47.73     53.00     53.00
+            BitSet  |   47.73     68.00    106.38  |   47.73     53.00     53.0
      ClassicOffset  |   39.82     68.00     87.09  |   43.55     43.29     50.31
        MorinOffset  |   39.82       ---       ---  |   39.82       ---       ---
        BitSetNoPad  |   47.73     73.36     95.47  |   47.73     47.73     53.00
